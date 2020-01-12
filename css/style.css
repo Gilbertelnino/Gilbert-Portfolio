@@ -189,6 +189,7 @@ nav a:hover{
     }
     .hide-desktop{
         display: none;
+        
     }
     nav ul{
         position: inherit;
